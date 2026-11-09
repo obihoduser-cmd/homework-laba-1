@@ -17,11 +17,15 @@
 
   
 <img width="654" height="68" alt="image" src="https://github.com/user-attachments/assets/1812d33a-3fe8-46ae-81c7-3393cbbbd178" />
+<br>
+<br>
 Рисунок 1 - Создание виртуального рабочего стола
 
 <br>
+<br>
 
 <img width="242" height="391" alt="image" src="https://github.com/user-attachments/assets/3353b3e9-976a-4810-bc3c-b48529f57fca" />
+<br><br>
 Рисунок 2 - Корневая папка проекта
 
 <br>
