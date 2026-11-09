@@ -19,12 +19,12 @@
 <img width="654" height="68" alt="image" src="https://github.com/user-attachments/assets/1812d33a-3fe8-46ae-81c7-3393cbbbd178" />
 Рисунок 1 - Создание виртуального рабочего стола
 
-
+<br>
 
 <img width="242" height="391" alt="image" src="https://github.com/user-attachments/assets/3353b3e9-976a-4810-bc3c-b48529f57fca" />
 Рисунок 2 - Корневая папка проекта
 
-
+<br>
 
 <img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/449160bf-97d6-4fde-9812-76d76b9752df" />
 Рисунок 3 - Запуск веб-сервера
