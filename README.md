@@ -28,44 +28,44 @@
 <br><br>
 Рисунок 2 - Корневая папка проекта
 
-<br>
+<br><br>
 
 <img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/449160bf-97d6-4fde-9812-76d76b9752df" />
-Рисунок 3 - Запуск веб-сервера
+<br><br>Рисунок 3 - Запуск веб-сервера<br><br>
 
 
 
 <img width="1077" height="749" alt="image" src="https://github.com/user-attachments/assets/1ddbd87e-fa15-4c23-aaa4-e5b01d2ccf77" />
-Рисунок 4 - Создание приложения news
+<br><br>Рисунок 4 - Создание приложения news<br><br>
 
 
 
 <img width="456" height="273" alt="image" src="https://github.com/user-attachments/assets/708629f7-804c-4124-9733-ebb35fecf473" />
-Рисунок 5 - Добавление в настройки приложения news
+<br><br>Рисунок 5 - Добавление в настройки приложения news<br><br>
 
 
 
 <img width="627" height="291" alt="image" src="https://github.com/user-attachments/assets/5f022b57-bc2d-4704-9291-1447932d6f07" />
-Рисунок 6 - Написание контроллера
+<br><br>Рисунок 6 - Написание контроллера<br><br>
 
 
 
 <img width="870" height="361" alt="image" src="https://github.com/user-attachments/assets/c2dc654f-ab52-442c-9668-ace5de4c05b8" />
-Рисунок 7 - Создание текстового контроллера
+<br><br>Рисунок 7 - Создание текстового контроллера<br><br>
 
 
 
 <img width="513" height="170" alt="image" src="https://github.com/user-attachments/assets/ba866f5b-556a-412d-bc59-605bcce33232" />
-Рисунок 8 - Добавление ссылок в файл urls
+<br><br>Рисунок 8 - Добавление ссылок в файл urls<br><br>
 
 
 
 <img width="550" height="244" alt="image" src="https://github.com/user-attachments/assets/8b03a6f3-405c-488b-9211-0e464eea1d2c" />
-Рисунок 9 - Создание вложенности в файле urls.py
+<br><br>Рисунок 9 - Создание вложенности в файле urls.py<br><br>
 
 
 
 <img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/90260386-a3d9-4945-8858-df1c1d4a181a" />
-Рисунок 10 - Реализация вложенных ссылок
+<br><br>Рисунок 10 - Реализация вложенных ссылок<br><br>
 
 
